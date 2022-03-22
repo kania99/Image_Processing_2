@@ -77,7 +77,7 @@ Prerequisites:
 
 Clone repository:
 
-    git clone https://github.com/kania99/Image_Processing_2.git
+    git clone https://github.com/maciejkaniewski/Image_Processing_2.git
 
 Create `build` directory and launch `CMake`:
 
